@@ -15,7 +15,7 @@ export default function WhyChooseSection () {
       linkHref: "/tracking",
     },
     {
-      imageSrc: "/MovingTruck.jpeg",
+      imageSrc: "/movingTruck.jpeg",
       altText: "Moving Trucks",
       title: "Seamless Access to Fleets of All Sizes",
       description:
